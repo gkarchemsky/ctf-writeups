@@ -1,4 +1,4 @@
-### Sanity Check
+### Misc
 
   - [X] [Sanity Check](Sanity-Check) - 703 solves
   - [X] [World's Greatest Detective](World's-Greatest-Detective) - 651 solves

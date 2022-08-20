@@ -1,6 +1,6 @@
 ### Web
 
-  - [ ] [Choosy](Choosy) - 411 solves
+  - [X] [Choosy](Choosy) - 411 solves
   - [ ] Extractor - 224 solves
   - [ ] Colour Cookie - 182 solves
   - [ ] ILLUSION - 155 solves

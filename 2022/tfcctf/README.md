@@ -1,13 +1,13 @@
-# [TFCCTF](https://ctftime.org/event/1647) - 50 CHALLENGES
+# [TFCCTF](https://ctftime.org/event/1647)
 
-### [CRYPTO](CRYPTO) - 5 CHALLENGES
+### [CRYPTO](CRYPTO)
 
-### [FORENSICS](FORENSICS) - 5 CHALLENGES
+### [FORENSICS](FORENSICS)
 
-### [MISC](MISC) - 6 CHALLENGES
+### [MISC](MISC)
 
-### [PWN](PWN) - 8 CHALLENGES
+### [PWN](PWN)
 
-### [REVERSE](REVERSE) - 6 CHALLENGES
+### [REVERSE](REVERSE)
   
-### [WEB](WEB) - 8 CHALLENGES
+### [WEB](WEB)

@@ -9,4 +9,6 @@ Flag Format : SHELLCTF{}.
 
 # solution
 
+the flag is:
 
+`SHELLCTF{15_R3v3r51ng_34sy?}`
